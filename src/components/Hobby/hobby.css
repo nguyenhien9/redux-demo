@@ -1,0 +1,8 @@
+.active {
+  color: darkcyan;
+  font-style: italic;
+  font-weight: 600;
+}
+#text {
+  cursor: pointer;
+}
